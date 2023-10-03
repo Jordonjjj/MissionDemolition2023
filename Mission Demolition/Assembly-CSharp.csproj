@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Slingshot.cs" />
     <Compile Include="Assets\Script\FollowCam.cs" />
+    <Compile Include="Assets\Script\CloudCover.cs" />
+    <Compile Include="Assets\Script\RigidbodySleep.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
