@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Slingshot.cs" />
+    <Compile Include="Assets\Script\FollowCam.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
